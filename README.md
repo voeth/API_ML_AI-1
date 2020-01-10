@@ -5,7 +5,7 @@
 
 - - -
 
-[20×20PPT下载]([https://gitee.com/NFUNM105/API_ML_AI/blob/master/20%C3%9720.pptx)
+(20×20PPT下载)[https://gitee.com/NFUNM105/API_ML_AI/blob/master/20%C3%9720.pptx]
 
 ---
 
